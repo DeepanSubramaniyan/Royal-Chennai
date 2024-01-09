@@ -1,0 +1,36 @@
+<div class="container text-center bg-transparent">
+        <div class="row">
+            <!-- email -->
+          <div class="col" style="margin: 6px;">
+            <i class="bi bi-envelope-at" style="width: 16px; height: 18px;"></i>
+        <a href="mailto:deparis@email.com? subject=subject text"> Email- <i>deparis@email.com</i></a>
+          </div>
+          <!-- phone number -->
+          <div class="col" style="margin: 6px;">
+            <img src="image/logo/phone.png" width="20px" height="20px"> 
+            <span>+91 9674685679</span>
+          </div>
+          <!-- Language -->
+          <div class="col">
+            <div class="dropdown">
+                <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                  Language
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                  <li><a class="dropdown-item" href="#">Tamil</a></li>
+                  <li><a class="dropdown-item" href="#">Hindi</a></li>
+                  <li><a class="dropdown-item" href="#">Japanse</a></li>
+                </ul>
+              </div>
+          </div>
+          <!-- Login -->
+          <div class="col" style="margin: 6px;">
+            <div id="log">
+                <button type="button">
+                <a href="#"><i class="bi bi-person"></i> Sign in / Register Here</a>
+                </button>
+            </div>
+          </div>
+         
+        </div>
+      </div>

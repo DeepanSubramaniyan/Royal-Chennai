@@ -1,0 +1,111 @@
+.name{
+    font: 35px 'Times New Roman', Times, serif;
+    color: #C8AD1D;
+    position: relative;
+    top: 10px;
+ }
+ a{
+    font: 1em sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #000;
+ }
+ .navbar-nav{
+    margin-left: auto !important;
+    margin-left: 300px;
+    font: 1.5em sans-serif;
+    /* overflow: auto; */
+    padding: 12px;
+    
+ }
+ /* .navbar{
+   overflow: hidden;
+   position: fixed;
+   top: 0;
+   width: 99%;
+ } */
+ nav{
+   border: 3px solid rgb(198, 246, 9);
+   padding: 5px;
+   margin: 10px;
+   box-shadow: 5px 10px 15px goldenrod;
+ }
+ .navbar a:hover{
+    background-color: #ddd;
+    border-radius: 5px;
+ }
+ /* .navbar a.active{
+    background-color:#cc3300;
+ } */
+.login{
+    text-align: right;
+ }
+
+
+
+
+.bi{
+   color: #cc3300;
+}
+.grid-container{
+   display: grid;
+   grid-template-columns: auto auto;
+   background-color: rgba(100,150,200,0.1);
+   margin-left: 10%;
+   margin-right: 10%;
+}
+
+
+/* Card */
+
+.polaroid {
+   width: 500px;
+   height: 400px;
+   background-color: white;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin-bottom: 25px;
+   border-radius: 8px;
+ }
+ 
+.text {
+   text-align: center;
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 10px 20px;
+ }
+ 
+ /* footer */
+
+footer{
+   position: relative;
+   background-color: #e2e3e2;
+   border: 5px;
+   border-radius: 5px;
+   padding: 20px;
+}
+ul{
+   list-style-type: none;
+}
+progress{
+   width: 80px;
+   height: 5px;
+}
+.quick{
+   display: flex;
+   flex-direction: row;
+   margin: 20px;
+   line-height: 40px;
+   justify-content: space-around;
+}
+.trip{
+   display: flex;
+   flex-direction: row;
+   line-height: 40px;
+   justify-content: space-around;
+}
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+.name{
+    font: 35px 'Times New Roman', Times, serif;
+    color: #C8AD1D;
+    position: relative;
+    top: 10px;
+ }
+ a{
+    font: 1em sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #000;
+ }
+ .navbar-nav{
+    margin-left: auto !important;
+    margin-left: 300px;
+    font: 1.5em sans-serif;
+    /* overflow: auto; */
+    padding: 12px;
+    
+ }
+ /* .navbar{
+   overflow: hidden;
+   position: fixed;
+   top: 0;
+   width: 99%;
+ } */
+ nav{
+   border: 3px solid rgb(198, 246, 9);
+   padding: 5px;
+   margin: 10px;
+   box-shadow: 5px 10px 15px goldenrod;
+ }
+ .navbar a:hover{
+    background-color: #ddd;
+    border-radius: 5px;
+ }
+
+
+ /* footer */
+
+footer{
+    position: relative;
+    background-color: #e2e3e2;
+    border: 5px;
+    border-radius: 5px;
+    padding: 20px;
+ }
+ ul{
+    list-style-type: none;
+ }
+ progress{
+    width: 80px;
+    height: 5px;
+ }
+ .quick{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    line-height: 40px;
+    justify-content: space-around;
+ }
+ .trip{
+    display: flex;
+    flex-direction: row;
+    line-height: 40px;
+    justify-content: space-around;
+ }
+
+/* Contact */
+
+
